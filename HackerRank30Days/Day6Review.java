@@ -28,5 +28,6 @@ public class Day6Review {
             }
             System.out.printf("%s %s%n", even, odd);
         }
+        input.close();
     }
 }
